@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Created 1 training game to ultilize DAX function for Santa where he can set an initial launch angle and velocity to see if he can hit various goal distances.
+Created 1 training game to ultilise DAX function for Santa where he can set an initial launch angle and velocity to see if he can hit various goal distances.
 
 
 ## Tech stacks used in the project
