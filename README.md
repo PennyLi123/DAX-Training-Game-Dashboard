@@ -29,14 +29,14 @@ Mode – 0 or 1 (Representing Aim and Fire)
 
 Create a table of points from 0 to 20 which will act as the incremental points as your projectile moves from point 0 to 20.  Within this table, create the following:
 
-Vx (velocity in the x-direction) = Velocity*cos(Launch Angle*PI()/180)
-Vy (velocity in the y-direction) = Velocity*sin(Launch Angle*PI()/180)
-Max Time (time of flight) = 2 * [Vy] / 9.8
-Max Distance = [Vx] * 2 * [Vy] / 9.8
-Height = [Vy]*[Time]-0.5*9.8*[Time]^2
-Distance = [Vx]*[Time]
-Gift = unichar(127873)
-Time = Incremental time between 0 and max time (make this dynamic in case we wanted to increase the number of points)
+1. Vx (velocity in the x-direction) = Velocity*cos(Launch Angle*PI()/180)
+2. Vy (velocity in the y-direction) = Velocity*sin(Launch Angle*PI()/180)
+3. Max Time (time of flight) = 2 * [Vy] / 9.8
+4. Max Distance = [Vx] * 2 * [Vy] / 9.8
+5. Height = [Vy]*[Time]-0.5*9.8*[Time]^2
+6. Distance = [Vx]*[Time]
+7. Gift = unichar(127873)
+8. Time = Incremental time between 0 and max time (make this dynamic in case we wanted to increase the number of points)
 
 ## DAX Training Game Dashboard
 ![SANTA'S SEASONAL TRAINING.png](https://github.com/PennyLi123/DAX-Training-Game-Dashboard/blob/main/SANTA'S%20SEASONAL%20TRAINING.png)
