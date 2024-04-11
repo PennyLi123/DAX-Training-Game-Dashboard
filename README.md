@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Created 1 training game to ultilise DAX function for Santa where he can set an initial launch angle and velocity to see if he can hit various goal distances.
+Created 1 training game to ultilise `DAX` function for Santa where he can set an initial launch angle and velocity to see if he can hit various goal distances.
 
 
 ## Tech stacks used in the project
@@ -11,10 +11,10 @@ Created 1 training game to ultilise DAX function for Santa where he can set an i
    
 
 ## Tech skills
-* Creating measures and calculated columns using the DAX language.
-* Applying conditional formatting.
-* Implementing performance optimization techniques.
-* Deploying reports to the Power BI service.
+* Creating measures and calculated columns using the `DAX` language.
+* Applying 𝐜𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐟𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠.
+* Implementing 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧 techniques.
+* Deploying reports to the `Power BI service`.
 
 ## Parameter Setup
 
@@ -39,6 +39,9 @@ Create a table of points from 0 to 20 which will act as the incremental points a
 8. Time = Incremental time between 0 and max time (make this dynamic in case we wanted to increase the number of points)
 
 ## DAX Training Game Dashboard
-![SANTA'S SEASONAL TRAINING.png](https://github.com/PennyLi123/DAX-Training-Game-Dashboard/blob/main/SANTA'S%20SEASONAL%20TRAINING.png)
+
 ### Feel Free to use the interactive [dashboard.](https://app.powerbi.com/view?r=eyJrIjoiNTBhNGE3NjctNDU1Yy00ODI2LWE4YjUtNWJiMzE2NjJkZTEyIiwidCI6IjMxNjIzZjJjLWQ0ZTMtNDYwOS1iNTkzLWMzNjVkN2I3YmExZiJ9)
+
+![SANTA'S SEASONAL TRAINING.png](https://github.com/PennyLi123/DAX-Training-Game-Dashboard/blob/main/SANTA'S%20SEASONAL%20TRAINING.png)
+
 
